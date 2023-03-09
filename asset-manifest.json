@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/C:/repos/rpl/build/static/css/main.c65623f0.chunk.css",
+    "main.js": "/C:/repos/rpl/build/static/js/main.04a4ae28.chunk.js",
+    "main.js.map": "/C:/repos/rpl/build/static/js/main.04a4ae28.chunk.js.map",
+    "runtime~main.js": "/C:/repos/rpl/build/static/js/runtime~main.02e00331.js",
+    "runtime~main.js.map": "/C:/repos/rpl/build/static/js/runtime~main.02e00331.js.map",
+    "static/js/2.df836e0f.chunk.js": "/C:/repos/rpl/build/static/js/2.df836e0f.chunk.js",
+    "static/js/2.df836e0f.chunk.js.map": "/C:/repos/rpl/build/static/js/2.df836e0f.chunk.js.map",
+    "index.html": "/C:/repos/rpl/build/index.html",
+    "precache-manifest.4cdca1cf83a4b201ce694170058a4979.js": "/C:/repos/rpl/build/precache-manifest.4cdca1cf83a4b201ce694170058a4979.js",
+    "service-worker.js": "/C:/repos/rpl/build/service-worker.js",
+    "static/css/main.c65623f0.chunk.css.map": "/C:/repos/rpl/build/static/css/main.c65623f0.chunk.css.map",
+    "static/media/The-Witcher-3-Wild-Hunt-Sword-of-Destiny.mp3": "/C:/repos/rpl/build/static/media/The-Witcher-3-Wild-Hunt-Sword-of-Destiny.c4461588.mp3",
+    "static/media/all-programs.ico": "/C:/repos/rpl/build/static/media/all-programs.a48640a2.ico",
+    "static/media/error.wav": "/C:/repos/rpl/build/static/media/error.199b5352.wav",
+    "static/media/find.svg": "/C:/repos/rpl/build/static/media/find.cfc00209.svg",
+    "static/media/narrator.ico": "/C:/repos/rpl/build/static/media/narrator.e23232f0.ico",
+    "static/media/restart.ico": "/C:/repos/rpl/build/static/media/restart.bfcfd28f.ico",
+    "static/media/restore.ico": "/C:/repos/rpl/build/static/media/restore.8e8ae78a.ico",
+    "static/media/smile.svg": "/C:/repos/rpl/build/static/media/smile.33211a17.svg",
+    "static/media/under-construction.png": "/C:/repos/rpl/build/static/media/under-construction.af24f452.png",
+    "static/media/view-info.ico": "/C:/repos/rpl/build/static/media/view-info.415b027d.ico"
+  }
+}
